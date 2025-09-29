@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "author": "Shashaank Jain",
+  "author": "Shashaank Jain ",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.10"
